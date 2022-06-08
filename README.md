@@ -6,6 +6,10 @@
 - 홈페이지 : http://oyori.asia
 - 페이스북(프로필) : https://www.facebook.com/oyori/
 
+## 미션 MISSION
+
+- 음식의 가치와 일하는 즐거움을 통해 
+- 아시아의 빈곤여성과 청소년의 사회 경제적 자립을 지원합니다.
 
 ## PORTFOLIO
 ### 테레노 terreno

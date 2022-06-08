@@ -3,5 +3,5 @@
 
 ## communication
 
-이메일 : korea@oyori.asia
-홈페이지 : http://oyori.asia
+- 이메일 : korea@oyori.asia
+- 홈페이지 : http://oyori.asia

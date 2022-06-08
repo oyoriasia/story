@@ -1,22 +1,22 @@
 # 오요리아시아 oyoriasia
 오요리 아시아는 ?
 
-## 메세지 message
+## 1.메세지 message
 - 음식의 가치 
 - 일하는 즐거움
 - 자립과 지역활성화  
 
-## 비지니스 business
+## 2.비지니스 business
 - 레스토랑 Restaurant
 - 인큐베이팅 Incuvating
 - 로컬 Local
 
-## 연락 및 커뮤니케이션 communication
+## 3.연락 및 커뮤니케이션 communication
 - 이메일 : korea@oyori.asia
 - 홈페이지 : http://oyori.asia
 - 페이스북(프로필) : https://www.facebook.com/oyori/
 
-## 미션 MISSION
+## 4.미션 MISSION
 
 - 음식의 가치와 일하는 즐거움을 통해 
 - 아시아의 빈곤여성과 청소년의 사회 경제적 자립을 지원합니다.

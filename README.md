@@ -11,7 +11,7 @@
 - 음식의 가치와 일하는 즐거움을 통해 
 - 아시아의 빈곤여성과 청소년의 사회 경제적 자립을 지원합니다.
 
-## PORTFOLIO
+## 포트폴리오 PORTFOLIO
 ### 테레노 terreno
 - 이메일 : terreno@oyori.asia
 - 블로그 : https://blog.naver.com/gooddining
